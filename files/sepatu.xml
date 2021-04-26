@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<sepatu>
+    <sepatu>
+        <id>1</id>
+        <nama_sepatu>Tulip</nama_sepatu>
+        <kategori>Sepatu Wanita</kategori>
+        <ukuran>25</ukuran>
+        <warna>Cokelat</warna>
+        <harga>200000</harga>
+        <sisa_stok>31</sisa_stok>
+    </sepatu>
+    <sepatu>
+        <id>2</id>
+        <nama_sepatu>Eiger</nama_sepatu>
+        <kategori>Sepatu Olahraga Pria</kategori>
+        <ukuran>40</ukuran>
+        <warna>merah</warna>
+        <harga>350000</harga>
+        <sisa_stok>12</sisa_stok>
+    </sepatu>
+    <sepatu>
+        <id>3</id>
+        <nama_sepatu>Vans</nama_sepatu>
+        <kategori>Flat Shoes</kategori>
+        <ukuran>39</ukuran>
+        <warna>Hitam</warna>
+        <harga>250000</harga>
+        <sisa_stok>23</sisa_stok>
+    </sepatu>
+    <sepatu>
+        <id>4</id>
+        <nama_sepatu>Lylac</nama_sepatu>
+        <kategori>Sepatu kantor wanita</kategori>
+        <ukuran>37</ukuran>
+        <warna>Hitam</warna>
+        <harga>300000</harga>
+        <sisa_stok>25</sisa_stok>
+    </sepatu>
+<sepatu><id>5</id><nama_sepatu>Adidas</nama_sepatu><kategori>Sepatu anak</kategori><ukuran>10</ukuran><warna>cokelat muda</warna><harga>79000</harga><sisa_stok>15</sisa_stok></sepatu><sepatu><id>6</id><nama_sepatu>Adidas</nama_sepatu><kategori>Sepatu Sekolah</kategori><ukuran>40</ukuran><warna>Hitam</warna><harga>100000</harga><sisa_stok>24</sisa_stok></sepatu></sepatu>
